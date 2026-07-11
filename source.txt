@@ -4,8 +4,13 @@
  <title>Source</title>
  <link>https://breck7.github.io/breckyunits.com/</link>
  <description></description>
- <lastBuildDate>Tue, 07 Jul 2026 05:17:47 +0000</lastBuildDate>
+ <lastBuildDate>Sat, 11 Jul 2026 16:32:52 +0000</lastBuildDate>
  <language>en-us</language>
+ <item>
+<title>The New Thing</title>
+<link>https://breck7.github.io/breckyunits.com/theNewThing.html</link>
+<pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+</item>
  <item>
 <title>Wealth Levels</title>
 <link>https://breck7.github.io/breckyunits.com/wealthLevels.html</link>
@@ -370,11 +375,6 @@
 <title>Why Warpcast should not add blocking</title>
 <link>https://breck7.github.io/breckyunits.com/blocking.html</link>
 <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
-</item>
- <item>
-<title>A Review of the South Park Commons Rejection Letter</title>
-<link>https://breck7.github.io/breckyunits.com/southPark.html</link>
-<pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
 </item>
  <item>
 <title>PAU: Patient Accessible and Understandable health records</title>

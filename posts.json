@@ -106,8 +106,8 @@
     "permalink": "juggling.html",
     "authors": "Breck Yunits",
     "tags": "All Thinking Ford",
-    "wordCount": 883,
-    "minutes": 4.4
+    "wordCount": 976,
+    "minutes": 4.9
   },
   {
     "date": "06/04/2025",
@@ -136,8 +136,8 @@
     "permalink": "fordDream.html",
     "authors": "Breck Yunits",
     "tags": "All Thinking Ford",
-    "wordCount": 604,
-    "minutes": 3
+    "wordCount": 697,
+    "minutes": 3.5
   },
   {
     "date": "05/06/2025",
@@ -146,8 +146,8 @@
     "permalink": "3d.html",
     "authors": "Breck Yunits",
     "tags": "All Thinking Ford",
-    "wordCount": 368,
-    "minutes": 1.8
+    "wordCount": 461,
+    "minutes": 2.3
   },
   {
     "date": "04/28/2025",
@@ -206,8 +206,8 @@
     "permalink": "ford.html",
     "authors": "Breck Yunits",
     "tags": "All Thinking Writing Scroll Ford",
-    "wordCount": 372,
-    "minutes": 1.9
+    "wordCount": 465,
+    "minutes": 2.3
   },
   {
     "date": "04/19/2025",
@@ -225,7 +225,7 @@
     "title": "Experiments",
     "permalink": "experiments.html",
     "authors": "Breck Yunits",
-    "tags": "All Science Thinking Scroll",
+    "tags": "All Science Thinking Scroll Ford",
     "wordCount": 177,
     "minutes": 0.9
   },
@@ -235,7 +235,7 @@
     "title": "Pretext",
     "permalink": "pretext.html",
     "authors": "Breck Yunits",
-    "tags": "All Scroll Science Thinking Writing",
+    "tags": "All Scroll Science Thinking Writing Ford",
     "wordCount": 244,
     "minutes": 1.2
   },
@@ -285,7 +285,7 @@
     "title": "What Science May Be",
     "permalink": "science.html",
     "authors": "Breck Yunits",
-    "tags": "All Scroll Programming Science",
+    "tags": "All Scroll Programming Science Ford",
     "wordCount": 627,
     "minutes": 3.1
   },
@@ -335,7 +335,7 @@
     "title": "Topological Sorting",
     "permalink": "tsort.html",
     "authors": "Breck Yunits",
-    "tags": "All Science",
+    "tags": "All Science Ford",
     "wordCount": 679,
     "minutes": 3.4
   },
@@ -345,7 +345,7 @@
     "title": "Scales",
     "permalink": "scales.html",
     "authors": "Breck Yunits",
-    "tags": "All Science",
+    "tags": "All Science Ford",
     "wordCount": 993,
     "minutes": 5
   },
@@ -1055,7 +1055,7 @@
     "title": "Hot Coffee",
     "permalink": "datasets.html",
     "authors": "Breck Yunits",
-    "tags": "All Data Thinking Programming HasDataset ScrollSets Science",
+    "tags": "All Data Thinking Programming HasDataset ScrollSets Science Ford",
     "wordCount": 892,
     "minutes": 4.5
   },
@@ -1105,7 +1105,7 @@
     "title": "The Box Method of Science",
     "permalink": "boxMethod.html",
     "authors": "Breck Yunits",
-    "tags": "All Data Thinking Science",
+    "tags": "All Data Thinking Science Ford",
     "wordCount": 1178,
     "minutes": 5.9
   },

@@ -138,6 +138,41 @@ Ford
 04/20/2025
 https://breck7.github.io/breckyunits.com/ford.html
 
+Experiments
+===========
+04/15/2025
+https://breck7.github.io/breckyunits.com/experiments.html
+
+Pretext
+=======
+04/14/2025
+https://breck7.github.io/breckyunits.com/pretext.html
+
+What Science May Be
+===================
+04/03/2025
+https://breck7.github.io/breckyunits.com/science.html
+
+Topological Sorting
+===================
+03/05/2025
+https://breck7.github.io/breckyunits.com/tsort.html
+
+Scales
+======
+03/05/2025
+https://breck7.github.io/breckyunits.com/scales.html
+
+Hot Coffee
+==========
+04/23/2024
+https://breck7.github.io/breckyunits.com/datasets.html
+
+The Box Method of Science
+=========================
+03/30/2024
+https://breck7.github.io/breckyunits.com/boxMethod.html
+
 Follow me on X
  https://twitter.com/breckyunits Follow me on X
 Built with Scroll v178.2.3

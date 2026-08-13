@@ -3,163 +3,163 @@ Breck's Blog - Ford Posts
 
 Breck's Blog - Writing Posts
 ============================
-08/11/2026
-https://breck7.github.io/breckyunits.com/writing.html
+08/13/2026
+https://breck.lol/writing.html
 
 Breck's Blog - Scroll Posts
 ===========================
-08/11/2026
-https://breck7.github.io/breckyunits.com/treeNotation.html
+08/13/2026
+https://breck.lol/treeNotation.html
 
 Breck's Blog - Thinking Posts
 =============================
-08/11/2026
-https://breck7.github.io/breckyunits.com/thinking.html
+08/13/2026
+https://breck.lol/thinking.html
 
 Breck's Blog - Startups Posts
 =============================
-08/11/2026
-https://breck7.github.io/breckyunits.com/startups.html
+08/13/2026
+https://breck.lol/startups.html
 
 Breck's Blog - Society Posts
 ============================
-08/11/2026
-https://breck7.github.io/breckyunits.com/society.html
+08/13/2026
+https://breck.lol/society.html
 
 Breck's Blog - Concise Index
 ============================
-08/11/2026
-https://breck7.github.io/breckyunits.com/short.html
+08/13/2026
+https://breck.lol/short.html
 
 Search Breck's Blog
 ===================
-08/11/2026
-https://breck7.github.io/breckyunits.com/search.html
+08/13/2026
+https://breck.lol/search.html
 
 Breck's Blog - Scroll Papers Posts
 ==================================
-08/11/2026
-https://breck7.github.io/breckyunits.com/scrollPapers.html
+08/13/2026
+https://breck.lol/scrollPapers.html
 
 Breck's Blog - Science Posts
 ============================
-08/11/2026
-https://breck7.github.io/breckyunits.com/sciencePage.html
+08/13/2026
+https://breck.lol/sciencePage.html
 
 Breck's Blog - Programming Posts
 ================================
-08/11/2026
-https://breck7.github.io/breckyunits.com/programming.html
+08/13/2026
+https://breck.lol/programming.html
 
 Breck's Blog - Mitochondria Posts
 =================================
-08/11/2026
-https://breck7.github.io/breckyunits.com/mitochondria.html
+08/13/2026
+https://breck.lol/mitochondria.html
 
 Breck's Blog - Life Posts
 =========================
-08/11/2026
-https://breck7.github.io/breckyunits.com/life.html
+08/13/2026
+https://breck.lol/life.html
 
 Breck's Blog - All Posts
 ========================
-08/11/2026
-https://breck7.github.io/breckyunits.com/index.html
+08/13/2026
+https://breck.lol/index.html
 
 Breck's Blog - Intellectual Freedom Posts
 =========================================
-08/11/2026
-https://breck7.github.io/breckyunits.com/freedom.html
+08/13/2026
+https://breck.lol/freedom.html
 
 Breck's Blog - Fiction Posts
 ============================
-08/11/2026
-https://breck7.github.io/breckyunits.com/fiction.html
+08/13/2026
+https://breck.lol/fiction.html
 
 Breck's Blog - Data Posts
 =========================
-08/11/2026
-https://breck7.github.io/breckyunits.com/data.html
+08/13/2026
+https://breck.lol/data.html
 
 The New Thing
 =============
 07/11/2026
-https://breck7.github.io/breckyunits.com/theNewThing.html
+https://breck.lol/theNewThing.html
 
 Juggling Ideas
 ==============
 06/10/2025
-https://breck7.github.io/breckyunits.com/juggling.html
+https://breck.lol/juggling.html
 
 The Spherical Object Model
 ==========================
 05/25/2025
-https://breck7.github.io/breckyunits.com/som.html
+https://breck.lol/som.html
 
 Dreaming of a 4D Wikipedia
 ==========================
 05/15/2025
-https://breck7.github.io/breckyunits.com/fordDream.html
+https://breck.lol/fordDream.html
 
 Does 3D exist?
 ==============
 05/06/2025
-https://breck7.github.io/breckyunits.com/3d.html
+https://breck.lol/3d.html
 
 Ford
 ====
 04/20/2025
-https://breck7.github.io/breckyunits.com/ford.html
+https://breck.lol/ford.html
 
 Experiments
 ===========
 04/15/2025
-https://breck7.github.io/breckyunits.com/experiments.html
+https://breck.lol/experiments.html
 
 Pretext
 =======
 04/14/2025
-https://breck7.github.io/breckyunits.com/pretext.html
+https://breck.lol/pretext.html
 
 What Science May Be
 ===================
 04/03/2025
-https://breck7.github.io/breckyunits.com/science.html
+https://breck.lol/science.html
 
 Topological Sorting
 ===================
 03/05/2025
-https://breck7.github.io/breckyunits.com/tsort.html
+https://breck.lol/tsort.html
 
 Scales
 ======
 03/05/2025
-https://breck7.github.io/breckyunits.com/scales.html
+https://breck.lol/scales.html
 
 A Mathematical Model of Trust
 =============================
 02/25/2025
-https://breck7.github.io/breckyunits.com/trust.html
+https://breck.lol/trust.html
 
 ICS: A Measure of Intelligence
 ==============================
 06/06/2024
-https://breck7.github.io/breckyunits.com/intelligence.html
+https://breck.lol/intelligence.html
 
 High Impact Thoughts
 ====================
 05/20/2024
-https://breck7.github.io/breckyunits.com/hits.html
+https://breck.lol/hits.html
 
 Hot Coffee
 ==========
 04/23/2024
-https://breck7.github.io/breckyunits.com/datasets.html
+https://breck.lol/datasets.html
 
 The Box Method of Science
 =========================
 03/30/2024
-https://breck7.github.io/breckyunits.com/boxMethod.html
+https://breck.lol/boxMethod.html
 
 Follow me on X
  https://twitter.com/breckyunits Follow me on X

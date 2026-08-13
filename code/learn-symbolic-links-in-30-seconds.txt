@@ -31,7 +31,7 @@ You can do all kinds of neat things with symlinks, but the simplest uses are oft
 Notes
 =====
 Aliases are another great time saver.
- https://breckyunits.com/code/use-aliases-to-save-time.html Aliases
+ https://breck.lol/code/use-aliases-to-save-time.html Aliases
 
 Follow me on X
  https://twitter.com/breckyunits Follow me on X

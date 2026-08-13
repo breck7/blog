@@ -4,7 +4,7 @@
   "description": "Breck's Blog.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/breck7/breckyunits.com.git"
+    "url": "git+https://github.com/breck7/blog.git"
   },
   "author": "Breck Yunits",
   "scripts": {
@@ -14,9 +14,9 @@
     "up": "npm install scroll-cli@latest"
   },
   "bugs": {
-    "url": "https://github.com/breck7/breckyunits.com/issues"
+    "url": "https://github.com/breck7/blog/issues"
   },
-  "homepage": "https://breckyunits.com",
+  "homepage": "https://breck.lol",
   "dependencies": {
     "scroll-cli": "^178.2.1"
   },

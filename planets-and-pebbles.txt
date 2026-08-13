@@ -20,22 +20,22 @@ Related Posts
 Big O's Kitchen
 ===============
 04/23/2024
-https://breck7.github.io/breckyunits.com/bigOsKitchen.html
+https://breck.lol/bigOsKitchen.html
 
 The Three Byte Fix
 ==================
 06/09/2022
-https://breck7.github.io/breckyunits.com/ckmeans.html
+https://breck.lol/ckmeans.html
 
 Logeracy
 ========
 04/26/2021
-https://breck7.github.io/breckyunits.com/logeracy.html
+https://breck.lol/logeracy.html
 
 Orders of Magnitude
 ===================
 12/07/2009
-https://breck7.github.io/breckyunits.com/orders-of-magnitude.html
+https://breck.lol/orders-of-magnitude.html
 
 Follow me on X
  https://twitter.com/breckyunits Follow me on X

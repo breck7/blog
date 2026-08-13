@@ -36,7 +36,7 @@ Here is a silly another example, with a lot of aftertext.
 
 The first implementation of Aftertext ships in the newest version of Scroll. You can also play with it here.
  https://scroll.pub/ Scroll
- https://try.scroll.pub/#url%20https://raw.githubusercontent.com/breck7/breckyunits.com/main/aftertext.scroll here
+ https://try.scroll.pub/#url%20https://raw.githubusercontent.com/breck7/blog/main/aftertext.scroll here
 
 *
 

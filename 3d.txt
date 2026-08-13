@@ -40,7 +40,7 @@ When you turn your head, are you seeing new light rays or is the generator givin
 *
 
 These ideas are so far upstream they are probably unanswerable, so why think about it?
- https://breck7.github.io/breckyunits.com/upstream-of-everything.html upstream
+ https://breck.lol/upstream-of-everything.html upstream
 
 Well, I came across this talk while working on a new language for the 4D world.
 
@@ -53,77 +53,77 @@ For now I still strongly lean in favor of spacetime being real but at least I'm 
 The New Thing
 =============
 07/11/2026
-https://breck7.github.io/breckyunits.com/theNewThing.html
+https://breck.lol/theNewThing.html
 
 Juggling Ideas
 ==============
 06/10/2025
-https://breck7.github.io/breckyunits.com/juggling.html
+https://breck.lol/juggling.html
 
 The Spherical Object Model
 ==========================
 05/25/2025
-https://breck7.github.io/breckyunits.com/som.html
+https://breck.lol/som.html
 
 Dreaming of a 4D Wikipedia
 ==========================
 05/15/2025
-https://breck7.github.io/breckyunits.com/fordDream.html
+https://breck.lol/fordDream.html
 
 Ford
 ====
 04/20/2025
-https://breck7.github.io/breckyunits.com/ford.html
+https://breck.lol/ford.html
 
 Experiments
 ===========
 04/15/2025
-https://breck7.github.io/breckyunits.com/experiments.html
+https://breck.lol/experiments.html
 
 Pretext
 =======
 04/14/2025
-https://breck7.github.io/breckyunits.com/pretext.html
+https://breck.lol/pretext.html
 
 What Science May Be
 ===================
 04/03/2025
-https://breck7.github.io/breckyunits.com/science.html
+https://breck.lol/science.html
 
 Topological Sorting
 ===================
 03/05/2025
-https://breck7.github.io/breckyunits.com/tsort.html
+https://breck.lol/tsort.html
 
 Scales
 ======
 03/05/2025
-https://breck7.github.io/breckyunits.com/scales.html
+https://breck.lol/scales.html
 
 A Mathematical Model of Trust
 =============================
 02/25/2025
-https://breck7.github.io/breckyunits.com/trust.html
+https://breck.lol/trust.html
 
 ICS: A Measure of Intelligence
 ==============================
 06/06/2024
-https://breck7.github.io/breckyunits.com/intelligence.html
+https://breck.lol/intelligence.html
 
 High Impact Thoughts
 ====================
 05/20/2024
-https://breck7.github.io/breckyunits.com/hits.html
+https://breck.lol/hits.html
 
 Hot Coffee
 ==========
 04/23/2024
-https://breck7.github.io/breckyunits.com/datasets.html
+https://breck.lol/datasets.html
 
 The Box Method of Science
 =========================
 03/30/2024
-https://breck7.github.io/breckyunits.com/boxMethod.html
+https://breck.lol/boxMethod.html
 
 Follow me on X
  https://twitter.com/breckyunits Follow me on X

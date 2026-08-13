@@ -1,5 +1,15 @@
 [
   {
+    "date": "08/12/2026",
+    "year": 2026,
+    "title": "New Domain Name",
+    "permalink": "newDomain.html",
+    "authors": "Breck Yunits",
+    "tags": "All Writing Life Blogging",
+    "wordCount": 259,
+    "minutes": 1.3
+  },
+  {
     "date": "07/25/2026",
     "year": 2026,
     "title": "Upstream Humility",
@@ -1996,7 +2006,7 @@
     "permalink": "publishing-more.html",
     "authors": "Breck Yunits",
     "tags": "All Writing Blogging",
-    "wordCount": 274,
+    "wordCount": 285,
     "minutes": 1.4
   },
   {
@@ -2596,7 +2606,7 @@
     "permalink": "im-back.html",
     "authors": "Breck Yunits",
     "tags": "All Writing Blogging",
-    "wordCount": 276,
+    "wordCount": 287,
     "minutes": 1.4
   },
   {
@@ -2736,8 +2746,8 @@
     "permalink": "bloggers-who-turned-pro-and-their-famous-last-words.html",
     "authors": "Breck Yunits",
     "tags": "All Writing HasDataset",
-    "wordCount": 1105,
-    "minutes": 5.5
+    "wordCount": 1116,
+    "minutes": 5.6
   },
   {
     "date": "05/14/2008",
@@ -2796,7 +2806,7 @@
     "permalink": "i-guess-the-time-had-come.html",
     "authors": "Breck Yunits",
     "tags": "All Writing Life Blogging",
-    "wordCount": 363,
-    "minutes": 1.8
+    "wordCount": 374,
+    "minutes": 1.9
   }
 ]

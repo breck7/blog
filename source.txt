@@ -4,8 +4,13 @@
  <title>Source</title>
  <link>https://breck.lol/</link>
  <description></description>
- <lastBuildDate>Thu, 13 Aug 2026 03:56:09 +0000</lastBuildDate>
+ <lastBuildDate>Thu, 13 Aug 2026 04:12:09 +0000</lastBuildDate>
  <language>en-us</language>
+ <item>
+<title>New Domain Name</title>
+<link>https://breck.lol/newDomain.html</link>
+<pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+</item>
  <item>
 <title>Upstream Humility</title>
 <link>https://breck.lol/upstreamHumility.html</link>

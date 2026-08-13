@@ -201,6 +201,7 @@ https://breck.lol/narratives-misrepresent-complex-systems.html
 https://breck.lol/nature-verse-nurture.html
 https://breck.lol/neo.html
 https://breck.lol/network-effects.html
+https://breck.lol/newDomain.html
 https://breck.lol/nudgepad-an-ide-in-your-browser.html
 https://breck.lol/nyd2024.html
 https://breck.lol/ohayo.html

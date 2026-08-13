@@ -23,7 +23,7 @@ for bar in bars:
 
 # Adding source link and description
 description = ("Source Note: Data sourced from personal communications in 2013, asking programmers to estimate "
-               "their practice hours. Full article at: https://breckyunits.com/30000hours.html")
+               "their practice hours. Full article at: https://breck.lol/30000hours.html")
 plt.figtext(0.5, .1, description, ha='center', va='bottom', fontsize=8, wrap=True)
 
 

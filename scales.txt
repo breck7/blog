@@ -17,7 +17,7 @@ So blog posts are mostly "unscaled". It is hard to compare this line with the li
 But this post does contain some lines that are scaled. For example, it has a date line, which maps this post to a date scale. So you can compare this post to others, and say which came before, and _how much_ they came before.
 
 Scroll, the language and software that powers this blog, does compute some scaled metrics on each post. The number of words, for example. You can see the number of words for this post and all others on the search page.
- https://scroll.pub Scroll
+ https://scroll.surf Scroll
  https://breck.lol/search.html search page
 
 *

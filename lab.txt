@@ -5,8 +5,8 @@ See where technology is going before your competitors
 =====================================================
 Influence the priorities of Scroll, PLDB, and more
  https://pldb.io PLDB
- https://scroll.pub Scroll
-===================================================================================================
+ https://scroll.surf Scroll
+====================================================================================================
 
 [Image Omitted]
  Above is a (blurred) screenshot of *brecks.lab*. For $499,999 a year, you get access to the private Git repo and issue boards.
@@ -16,7 +16,7 @@ Introducing Breck's Lab
 
 For $499,999 a year, you get access to *brecks.lab*, the private git repository and issue board where we post our in-progress language and AI research, and prioritize and shape the future of Scroll, PLDB, and our other open source projects.
  https://pldb.io PLDB
- https://scroll.pub Scroll
+ https://scroll.surf Scroll
 
 - *Early Access*: See new research and code early, sometimes months before publication.
 
@@ -50,7 +50,7 @@ The Fine Print
 - *Access*: A purchase entitles you to one year of access to the *brecks.lab* git repo and issues board, for one email address and one person.
 - *Public Domain*: Everything in *brecks.lab* eventually evolves into a public domain publication on Scroll, PLDB, breckyunits.com or one of our other public domain sites, with the exception of some ideas that are cut.
  https://pldb.io PLDB
- https://scroll.pub Scroll
+ https://scroll.surf Scroll
  https://breck.lol breckyunits.com
 - *Honorary Members*: If you've contributed 31 or more commits to our open source projects, email me for your honorary membership.
 - *Satisfaction Guarantee*: If you are not 100% satisfied at any point, just email me why and I'll issue a refund for the unused months.

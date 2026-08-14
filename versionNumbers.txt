@@ -12,7 +12,7 @@ Analyzing the version numbers of 621 programming languages
 May 25, 2024
 
 I just pushed version 93.0.0 of my language Scroll. *Version 93*!
- https://scroll.pub/ Scroll
+ https://scroll.surf/ Scroll
 
 Why so many versions? I use Tom Preston-Warner's Semantic Versioning (2011).
  https://semver.org/ Semantic Versioning

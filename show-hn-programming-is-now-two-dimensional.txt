@@ -10,7 +10,7 @@ What did I discover? That there might be useful general purpose programming lang
 *
 
 I call the whitespace-based notation Tree Notation and languages built on top of it Tree Languages.
- https://particles.scroll.pub/ Tree Notation
+ https://particles.scroll.surf/ Tree Notation
 
 Using a few simple atomic ingredients---words, spaces, newlines, and indentation--you can construct grammars for new programming languages that can do anything existing programming languages can do. A simple example:
 
@@ -64,8 +64,8 @@ Updated 12/30/2017
 Updated 2024
 ============
 
-We renamed Tree Notation Particles. We now call the Grammar language Parsers. See the latest at Scroll.pub
- https://scroll.pub/ Scroll.pub
+We renamed Tree Notation Particles. We now call the Grammar language Parsers. See the latest at scroll.surf
+ https://scroll.surf/ scroll.surf
 
 *
 

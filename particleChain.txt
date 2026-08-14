@@ -44,7 +44,7 @@ Implementing
 ============
 
 The chain itself is encoded in Particles (Particle Syntax) which could be done with pen and paper, though for more utility it is recommended to build a digital Particle Chain 😉.
- https://particles.scroll.pub/ Particle Syntax
+ https://particles.scroll.surf/ Particle Syntax
 
 For implementing a digital Particle Chain, the Parsers Programming Language (or a similar compiler compiler and virtual machine) may be used.
  https://pldb.io/concepts/parsers.html Parsers Programming Language
@@ -62,7 +62,7 @@ Notes
 Livestream creation of this post
  https://www.youtube.com/watch?v=s8vQuCGCYPM Livestream creation of this post
 Latest research
- https://pc.scroll.pub Latest research
+ https://pc.scroll.surf Latest research
 
 Follow me on X
  https://twitter.com/breckyunits Follow me on X

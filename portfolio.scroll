@@ -40,9 +40,9 @@ datatable
  data
   year,url,name
   2007,https://breck.lol,My blog
-  2021,https://scroll.pub,Scroll
-  2024,https://hub.scroll.pub,ScrollHub
-  2024,https://wws.scroll.pub,The Scroll
+  2021,https://scroll.surf,Scroll
+  2024,https://hub.scroll.surf,ScrollHub
+  2024,https://wws.scroll.surf,The Scroll
   2017,https://pldb.io,PLDB
   2024,https://news.pub,BuilderNews
   2024,https://wifinder.wiki,WiFinder
@@ -50,7 +50,7 @@ datatable
   2022,https://cancerdb.com,CancerDB
   2022,https://braindb.com,BrainDB
   2017,https://ohayo.breckyunits.com,Ohayo
-  2021,https://simoji.scroll.pub,Simoji
+  2021,https://simoji.scroll.surf,Simoji
 
 // 2023,https://hawaii.publicdomaincompany.com,Hawai'i Pub
 

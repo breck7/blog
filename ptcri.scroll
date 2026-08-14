@@ -37,7 +37,7 @@ If you view the source code of this post, you will see *T, C, R, and I* in actio
 ***
 
 PTCRI explains the simplicity and power of Particles^treeNotationNameChange. Four concepts, three syntax rules support a vast universe of concise programs. Another syntax(es) might be found with superior metrics, but I have yet to see it.
- https://scroll.pub Particles
+ https://scroll.surf Particles
 
 PTCRI also explains why _nearly_ flat structures work so well: a little nesting goes a long way. If you set T and C and R to 3, changing I from 1 to 2 increases the amount of possible programs from 7,625,597,484,987 to 58,149,737,003,040,060,000,000,000.
  // Math.pow(Math.pow(3, Math.pow(3, 3)), 1) vs:

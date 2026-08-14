@@ -50,7 +50,7 @@ Popularity sorting such as by number of inbound links is an improvement over alp
 
 I have been attempting to build a topologically sorted encyclopedia for a long time, though I had never described it like that. It's only recently when I realized I wanted to change Scroll to be topologically-sorted by default that I went looking for the definitive term to describe the concept.
  iThoughtWeCouldBuildAIExpertsByHand.html attempting to build
- https://scroll.pub Scroll
+ https://scroll.surf Scroll
 
 I think using parsers all the way down might work, though I could be wrong. The nice thing about this strategy is that you can build stuff that is useful along the way even if the vision of the topological encyclopedia doesn't materialize.
  thinkingInParsers.html parsers all the way down

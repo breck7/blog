@@ -28,7 +28,7 @@ I made an experimental microlang I'm calling *Aftertext*.
 
 codeWithHeader Aftertext
  A link in Aftertext looks like this.
-  https://scroll.pub this
+  https://scroll.surf this
 
 ***
 
@@ -39,12 +39,12 @@ Here is a silly another example, with a lot of aftertext.
  italics a lot
  bold with
  underline aftertext
- https://try.scroll.pub/#scroll%0A%20Here%20is%20a%20silly%20another%20example%2C%20with%20a%20lot%20of%20aftertext.%0A%20%20strike%20a%20silly%0A%20%20italics%20a%20lot%0A%20%20bold%20with%0A%20%20underline%20aftertext Here
+ https://try.scroll.surf/#scroll%0A%20Here%20is%20a%20silly%20another%20example%2C%20with%20a%20lot%20of%20aftertext.%0A%20%20strike%20a%20silly%0A%20%20italics%20a%20lot%0A%20%20bold%20with%0A%20%20underline%20aftertext Here
 aboveAsCode
 
 The first implementation of Aftertext ships in the newest version of Scroll. You can also play with it here.
- https://scroll.pub/ Scroll
- https://try.scroll.pub/#url%20https://raw.githubusercontent.com/breck7/blog/main/aftertext.scroll here
+ https://scroll.surf/ Scroll
+ https://try.scroll.surf/#url%20https://raw.githubusercontent.com/breck7/blog/main/aftertext.scroll here
 
 // Why, oh God, why?
  As a child I was bitten by a right parenthesis ), and ever since have had a strong aversion to closing brackets. Rather than talk to a therapist, I've tried to invent ways to eradicate closing brackets from the world.

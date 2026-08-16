@@ -47,7 +47,7 @@ const makersData = [
   },
   {
     "id": "Larry Wall",
-    "homepage": "http://www.wall.org/~larry/",
+    "homepage": "https://www.wall.org/~larry/",
     "topLanguage": "Perl",
     "topRank": 8,
     "otherLanguages": "Raku #430 | patch #4508"
@@ -67,7 +67,7 @@ const makersData = [
   },
   {
     "id": "Ken Thompson",
-    "homepage": "http://cs.bell-labs.co/who/ken/",
+    "homepage": "https://web.archive.org/web/20190927232607/http://cs.bell-labs.co/who/ken/",
     "topLanguage": "Go",
     "topRank": 11,
     "otherLanguages": "B #453 | ROFF #996 | UTF-8 #1553 | ed #2328 | Unix #2629"
@@ -350,7 +350,7 @@ const makersData = [
   },
   {
     "id": "Terence Parr",
-    "homepage": "https://parrt.cs.usfca.edu/",
+    "homepage": "https://www.cs.usfca.edu/~parrt/",
     "topLanguage": "ANTLR",
     "topRank": 124
   },
@@ -394,7 +394,7 @@ const makersData = [
   },
   {
     "id": "Juan Benet",
-    "homepage": "https://juan.benet.ai/",
+    "homepage": "https://research.protocol.ai/authors/juan-benet/",
     "topLanguage": "IPFS",
     "topRank": 168,
     "otherLanguages": "multibase #1314 | Filecoin #2816"
@@ -596,7 +596,7 @@ const makersData = [
   },
   {
     "id": "Cyrus Omar",
-    "homepage": "https://web.eecs.umich.edu/~comar/",
+    "homepage": "https://eecs.engin.umich.edu/people/omar-cyrus/",
     "topLanguage": "Hazel",
     "topRank": 525
   },
@@ -900,7 +900,7 @@ const makersData = [
   },
   {
     "id": "Markus Alexej Persson",
-    "homepage": "http://notch.net/",
+    "homepage": "https://web.archive.org/web/20120921122144/http://notch.net/",
     "topLanguage": "Minecraft",
     "topRank": 2190
   },

@@ -4,7 +4,7 @@
  <title>Source</title>
  <link>https://breck.lol/</link>
  <description></description>
- <lastBuildDate>Sun, 16 Aug 2026 03:15:57 +0000</lastBuildDate>
+ <lastBuildDate>Sun, 16 Aug 2026 03:18:17 +0000</lastBuildDate>
  <language>en-us</language>
  <item>
 <title>The Homepages of Programming Language Creators</title>

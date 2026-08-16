@@ -1,0 +1,21 @@
+The Homepages of Programming Language Creators
+==============================================
+
+[Image Omitted]
+ https://breck.lol/plMakers.html undefined
+ Try it yourself.
+  https://breck.lol/plMakers.html Try it yourself.
+
+August 15, 2026
+
+From working on PLDB, I discovered that people who make programming languages tend to have interesting, often quirky personal homepages.
+ https://github.com/breck7/pldb PLDB
+
+I used Codex to make this fun little single page browser for browsing those.
+ https://breck.lol/plMakers.html single page browser
+
+⁂
+
+Follow me on X
+ https://twitter.com/breckyunits Follow me on X
+Built with Scroll v178.2.3

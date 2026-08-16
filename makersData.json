@@ -1,0 +1,994 @@
+[
+  {
+    "id": "Brendan Eich",
+    "homepage": "https://brendaneich.com",
+    "topLanguage": "JavaScript",
+    "topRank": 1,
+    "otherLanguages": "SpiderMonkey #1860"
+  },
+  {
+    "id": "Dennis Ritchie",
+    "homepage": "https://www.bell-labs.com/usr/dmr/www/",
+    "topLanguage": "C",
+    "topRank": 2,
+    "otherLanguages": "M4 #211 | B #453 | Unix #2629"
+  },
+  {
+    "id": "Guido van Rossum",
+    "homepage": "https://gvanrossum.github.io/",
+    "topLanguage": "Python",
+    "topRank": 3,
+    "otherLanguages": "Python for S60 #2803"
+  },
+  {
+    "id": "James Gosling",
+    "homepage": "https://nighthacks.com/",
+    "topLanguage": "Java",
+    "topRank": 4
+  },
+  {
+    "id": "Bjarne Stroustrup",
+    "homepage": "https://www.stroustrup.com",
+    "topLanguage": "C++",
+    "topRank": 5
+  },
+  {
+    "id": "Tim Berners-Lee",
+    "homepage": "https://www.w3.org/People/Berners-Lee/",
+    "topLanguage": "HTML",
+    "topRank": 6,
+    "otherLanguages": "HTTP #117 | URL #726 | Solid #1017 | Notation3 #1121 | WorldWideWeb Browser #2032 | URI #2103 | World Wide Web #2668"
+  },
+  {
+    "id": "Håkon Wium Lie",
+    "homepage": "https://www.wiumlie.no/",
+    "topLanguage": "CSS",
+    "topRank": 7
+  },
+  {
+    "id": "Larry Wall",
+    "homepage": "http://www.wall.org/~larry/",
+    "topLanguage": "Perl",
+    "topRank": 8,
+    "otherLanguages": "Raku #430 | patch #4508"
+  },
+  {
+    "id": "Yukihiro Matsumoto",
+    "homepage": "https://matz.rubyist.net",
+    "topLanguage": "Ruby",
+    "topRank": 9,
+    "otherLanguages": "Streem #546"
+  },
+  {
+    "id": "Rasmus Lerdorf",
+    "homepage": "https://lerdorf.com/bio/",
+    "topLanguage": "PHP",
+    "topRank": 10
+  },
+  {
+    "id": "Ken Thompson",
+    "homepage": "http://cs.bell-labs.co/who/ken/",
+    "topLanguage": "Go",
+    "topRank": 11,
+    "otherLanguages": "B #453 | ROFF #996 | UTF-8 #1553 | ed #2328 | Unix #2629"
+  },
+  {
+    "id": "Rob Pike",
+    "homepage": "http://herpolhode.com/rob/",
+    "topLanguage": "Go",
+    "topRank": 11,
+    "otherLanguages": "Limbo #617 | ivy #1290 | UTF-8 #1553 | Newsqueak #2247"
+  },
+  {
+    "id": "John W. Cowan",
+    "homepage": "http://vrici.lojban.org/~cowan/",
+    "topLanguage": "XML",
+    "topRank": 12,
+    "otherLanguages": "Queue #4404"
+  },
+  {
+    "id": "Tim Bray",
+    "homepage": "https://www.tbray.org/",
+    "topLanguage": "XML",
+    "topRank": 12,
+    "otherLanguages": "json->url #1109"
+  },
+  {
+    "id": "Douglas Crockford",
+    "homepage": "https://www.crockford.com/",
+    "topLanguage": "JSON",
+    "topRank": 13,
+    "otherLanguages": "Seif #1746 | Misty #2112 | tilton #3727 | Base32 #4613"
+  },
+  {
+    "id": "Graydon Hoare",
+    "homepage": "https://graydon2.dreamwidth.org/",
+    "topLanguage": "Rust",
+    "topRank": 20
+  },
+  {
+    "id": "Chris Lattner",
+    "homepage": "https://www.nondot.org/sabre/",
+    "topLanguage": "Swift",
+    "topRank": 21,
+    "otherLanguages": "Mojo #116 | mlir #255 | dlvm #605"
+  },
+  {
+    "id": "Martin Odersky",
+    "homepage": "https://lampwww.epfl.ch/~odersky/",
+    "topLanguage": "Scala",
+    "topRank": 22,
+    "otherLanguages": "Scala.js #254"
+  },
+  {
+    "id": "Roberto Ierusalimschy",
+    "homepage": "https://www.inf.puc-rio.br/~roberto/",
+    "topLanguage": "Lua",
+    "topRank": 24
+  },
+  {
+    "id": "Andrey Breslav",
+    "homepage": "https://www.abreslav.com/",
+    "topLanguage": "Kotlin",
+    "topRank": 25
+  },
+  {
+    "id": "Jeremy Ashkenas",
+    "homepage": "https://ashkenas.com/",
+    "topLanguage": "CoffeeScript",
+    "topRank": 28,
+    "otherLanguages": "Literate CoffeeScript #235 | LiveScript #482"
+  },
+  {
+    "id": "Joe Armstrong",
+    "homepage": "https://joearms.github.io",
+    "topLanguage": "Erlang",
+    "topRank": 30
+  },
+  {
+    "id": "John McCarthy",
+    "homepage": "https://www-formal.stanford.edu/jmc/",
+    "topLanguage": "Lisp",
+    "topRank": 34,
+    "otherLanguages": "ALGOL 60 #318 | Advice Taker #3281 | Elephant 2000 #4816"
+  },
+  {
+    "id": "Stephen Wolfram",
+    "homepage": "https://www.stephenwolfram.com/",
+    "topLanguage": "Mathematica",
+    "topRank": 36,
+    "otherLanguages": "Wolfram Language #281"
+  },
+  {
+    "id": "Alex Beregszaszi",
+    "homepage": "https://rtfs.hu/",
+    "topLanguage": "Solidity",
+    "topRank": 40
+  },
+  {
+    "id": "Matthew Flatt",
+    "homepage": "https://users.cs.utah.edu/~mflatt/",
+    "topLanguage": "Racket",
+    "topRank": 42,
+    "otherLanguages": "scribble #1142 | Slideshow #1178 | Zuo #2133"
+  },
+  {
+    "id": "Aaron Swartz",
+    "homepage": "http://aaronsw.com",
+    "topLanguage": "Markdown",
+    "topRank": 43,
+    "otherLanguages": "atx #2956"
+  },
+  {
+    "id": "Alon Zakai",
+    "homepage": "https://kripken.github.io/blog/about/",
+    "topLanguage": "WebAssembly",
+    "topRank": 44,
+    "otherLanguages": "Emscripten #522 | binaryen #902"
+  },
+  {
+    "id": "Andrew Kelley",
+    "homepage": "https://andrewkelley.me/",
+    "topLanguage": "Zig",
+    "topRank": 45
+  },
+  {
+    "id": "Clark Evans",
+    "homepage": "https://clarkevans.com/",
+    "topLanguage": "YAML",
+    "topRank": 47,
+    "otherLanguages": "HTSQL #1690"
+  },
+  {
+    "id": "Ingy döt Net",
+    "homepage": "http://ingy.net/",
+    "topLanguage": "YAML",
+    "topRank": 47,
+    "otherLanguages": "Jemplate #1580 | JSYNC #3047 | C'Dent #3688"
+  },
+  {
+    "id": "Oren Ben-Kiki",
+    "homepage": "http://www.ben-kiki.org/oren/",
+    "topLanguage": "YAML",
+    "topRank": 47
+  },
+  {
+    "id": "Niklaus Wirth",
+    "homepage": "https://people.inf.ethz.ch/wirth/",
+    "topLanguage": "Pascal",
+    "topRank": 48,
+    "otherLanguages": "Modula-2 #298 | Oberon #315 | EBNF #441 | Oberon-2 #885 | Modula #1091 | ALGOL W #1117 | PL/0 #1525 | PL360 #1959 | Lola-2 #3477"
+  },
+  {
+    "id": "Tom Preston-Werner",
+    "homepage": "https://tom.preston-werner.com/",
+    "topLanguage": "TOML",
+    "topRank": 51,
+    "otherLanguages": "Jekyll #182 | Semantic Versioning #264"
+  },
+  {
+    "id": "Lee Byron",
+    "homepage": "https://leebyron.com/",
+    "topLanguage": "GraphQL",
+    "topRank": 58
+  },
+  {
+    "id": "Brian Kernighan",
+    "homepage": "https://www.cs.princeton.edu/~bwk/",
+    "topLanguage": "awk",
+    "topRank": 62,
+    "otherLanguages": "M4 #211 | AMPL #269 | PIC #846 | Unix #2629"
+  },
+  {
+    "id": "Donald Knuth",
+    "homepage": "https://cs.stanford.edu/~knuth/",
+    "topLanguage": "Tex",
+    "topRank": 65,
+    "otherLanguages": "CWEB #1075 | Up-arrow notation #1801 | Device independent file format #3283"
+  },
+  {
+    "id": "Thierry Coquand",
+    "homepage": "https://www.cse.chalmers.se/~coquand/",
+    "topLanguage": "Coq",
+    "topRank": 68
+  },
+  {
+    "id": "Louis Pilfold",
+    "homepage": "https://lpil.uk/",
+    "topLanguage": "Gleam",
+    "topRank": 70
+  },
+  {
+    "id": "Phil Freeman",
+    "homepage": "https://functorial.com/",
+    "topLanguage": "PureScript",
+    "topRank": 75
+  },
+  {
+    "id": "Hampton Lintorn-Catlin",
+    "homepage": "https://hamptonmakes.com/",
+    "topLanguage": "HAML",
+    "topRank": 77,
+    "otherLanguages": "Sass #140 | SCSS #415"
+  },
+  {
+    "id": "John Ousterhout",
+    "homepage": "https://web.stanford.edu/~ouster/cgi-bin/home.php",
+    "topLanguage": "Tcl",
+    "topRank": 81,
+    "otherLanguages": "Homa #776 | Tk #2335"
+  },
+  {
+    "id": "Aseem Kishore",
+    "homepage": "https://aseemk.com/",
+    "topLanguage": "JSON5",
+    "topRank": 82
+  },
+  {
+    "id": "Ryan Dahl",
+    "homepage": "https://tinyclouds.org/",
+    "topLanguage": "Node.js",
+    "topRank": 83,
+    "otherLanguages": "Deno #86"
+  },
+  {
+    "id": "Edwin Brady",
+    "homepage": "https://www.type-driven.org.uk/edwinb/",
+    "topLanguage": "Idris",
+    "topRank": 84
+  },
+  {
+    "id": "Urban Müller",
+    "homepage": "https://web.archive.org/web/20040930212131/http://wuarchive.wustl.edu/~umueller/",
+    "topLanguage": "Brainfuck",
+    "topRank": 92
+  },
+  {
+    "id": "John Maloney",
+    "homepage": "https://faberllull.cat/en/resident.cfm?id=38257&url=john-maloney.htm",
+    "topLanguage": "Scratch",
+    "topRank": 103,
+    "otherLanguages": "MicroBlocks #1818"
+  },
+  {
+    "id": "Leslie Lamport",
+    "homepage": "https://lamport.org/",
+    "topLanguage": "LaTeX",
+    "topRank": 104,
+    "otherLanguages": "TLA+ #335"
+  },
+  {
+    "id": "Thorsten Ball",
+    "homepage": "https://thorstenball.com/",
+    "topLanguage": "fish",
+    "topRank": 109
+  },
+  {
+    "id": "Dwayne Richard Hipp",
+    "homepage": "https://www.hwaci.com/drh/index.html",
+    "topLanguage": "SQLite",
+    "topRank": 111,
+    "otherLanguages": "Fossil #1411 | Pikchr #1660 | Lemon #1859"
+  },
+  {
+    "id": "John Resig",
+    "homepage": "https://johnresig.com/",
+    "topLanguage": "JQuery",
+    "topRank": 115
+  },
+  {
+    "id": "Leonardo de Moura",
+    "homepage": "https://leodemoura.github.io/",
+    "topLanguage": "Lean",
+    "topRank": 120
+  },
+  {
+    "id": "Avik Chaudhuri",
+    "homepage": "https://avikchaudhuri.github.io/",
+    "topLanguage": "Flow",
+    "topRank": 121
+  },
+  {
+    "id": "Terence Parr",
+    "homepage": "https://parrt.cs.usfca.edu/",
+    "topLanguage": "ANTLR",
+    "topRank": 124
+  },
+  {
+    "id": "Wes McKinney",
+    "homepage": "https://wesmckinney.com/",
+    "topLanguage": "Pandas",
+    "topRank": 141,
+    "otherLanguages": "Apache Arrow #239 | Ibis #935"
+  },
+  {
+    "id": "Sanjiva Weerawarana",
+    "homepage": "http://sanjiva.weerawarana.org/",
+    "topLanguage": "Ballerina",
+    "topRank": 146
+  },
+  {
+    "id": "Maximilian Roos",
+    "homepage": "http://feedback.maxroos.com/",
+    "topLanguage": "PRQL",
+    "topRank": 147,
+    "otherLanguages": "Xarray #375"
+  },
+  {
+    "id": "Paul Tagliamonte",
+    "homepage": "https://pault.ag/",
+    "topLanguage": "Hy",
+    "topRank": 148
+  },
+  {
+    "id": "Slava Pestov",
+    "homepage": "https://factorcode.org/slava/",
+    "topLanguage": "Factor",
+    "topRank": 150
+  },
+  {
+    "id": "Dries Buytaert",
+    "homepage": "https://dri.es",
+    "topLanguage": "Drupal",
+    "topRank": 159
+  },
+  {
+    "id": "Juan Benet",
+    "homepage": "https://juan.benet.ai/",
+    "topLanguage": "IPFS",
+    "topRank": 168,
+    "otherLanguages": "multibase #1314 | Filecoin #2816"
+  },
+  {
+    "id": "David A. Moon",
+    "homepage": "http://users.rcn.com/david-moon/",
+    "topLanguage": "Common Lisp",
+    "topRank": 169,
+    "otherLanguages": "Plot #1899 | Corman Common Lisp #2171 | Lisp Machine Lisp #2213 | lunar #4629"
+  },
+  {
+    "id": "Scott Fahlman",
+    "homepage": "https://www.cs.cmu.edu/~sef/",
+    "topLanguage": "Common Lisp",
+    "topRank": 169,
+    "otherLanguages": "Corman Common Lisp #2171 | Spice Lisp #2558"
+  },
+  {
+    "id": "Carson Gross",
+    "homepage": "https://bigsky.software/cv/",
+    "topLanguage": "htmx",
+    "topRank": 173
+  },
+  {
+    "id": "Bertrand Meyer",
+    "homepage": "https://bertrandmeyer.com/",
+    "topLanguage": "Eiffel",
+    "topRank": 177
+  },
+  {
+    "id": "Jarred Sumner",
+    "homepage": "https://jarredsumner.com/",
+    "topLanguage": "Bun",
+    "topRank": 204
+  },
+  {
+    "id": "Eric Seidel",
+    "homepage": "https://eseidel.com/",
+    "topLanguage": "Flutter",
+    "topRank": 212
+  },
+  {
+    "id": "David Goodger",
+    "homepage": "https://david.goodger.org/",
+    "topLanguage": "reStructuredText",
+    "topRank": 214
+  },
+  {
+    "id": "Christopher Chedeau",
+    "homepage": "https://blog.vjeux.com/",
+    "topLanguage": "React Native",
+    "topRank": 218
+  },
+  {
+    "id": "Mike Bostock",
+    "homepage": "https://bost.ocks.org/mike/",
+    "topLanguage": "D3.js",
+    "topRank": 219,
+    "otherLanguages": "Observable #344 | Observable Plot #1147 | Observable Framework #1228 | HTL #1244"
+  },
+  {
+    "id": "Kartik Chandra",
+    "homepage": "https://cs.stanford.edu/~kach/",
+    "topLanguage": "Nearley",
+    "topRank": 226
+  },
+  {
+    "id": "Joe Beda",
+    "homepage": "https://www.eightypercent.net",
+    "topLanguage": "Kubernetes",
+    "topRank": 237
+  },
+  {
+    "id": "Zachary Carter",
+    "homepage": "https://indieweb.social/@zii",
+    "topLanguage": "Jison",
+    "topRank": 259,
+    "otherLanguages": "Jison Lex #867"
+  },
+  {
+    "id": "Richard Stallman",
+    "homepage": "https://www.stallman.org/",
+    "topLanguage": "Emacs Lisp",
+    "topRank": 270,
+    "otherLanguages": "GCC #1583 | Lisp Machine Lisp #2213 | GNU Emacs #3286"
+  },
+  {
+    "id": "Lingdong Huang",
+    "homepage": "https://lingdong.works/",
+    "topLanguage": "文言文編程語言",
+    "topRank": 273,
+    "otherLanguages": "Wax #433 | PSVG #1065"
+  },
+  {
+    "id": "John Earnest",
+    "homepage": "https://beyondloom.com/",
+    "topLanguage": "Lil",
+    "topRank": 286,
+    "otherLanguages": "Decker #2261 | oK #2263"
+  },
+  {
+    "id": "Chandler Carruth",
+    "homepage": "https://chandlerc.blog/",
+    "topLanguage": "Carbon",
+    "topRank": 292
+  },
+  {
+    "id": "Travis Oliphant",
+    "homepage": "https://technicaldiscovery.blogspot.com/",
+    "topLanguage": "SciPy",
+    "topRank": 301,
+    "otherLanguages": "NumPy #303"
+  },
+  {
+    "id": "Zach Leatherman",
+    "homepage": "https://zachleat.com/",
+    "topLanguage": "11ty",
+    "topRank": 322
+  },
+  {
+    "id": "Erica Xu",
+    "homepage": "https://ericaxu.com",
+    "topLanguage": "Obsidian",
+    "topRank": 324
+  },
+  {
+    "id": "Andreas Kling",
+    "homepage": "https://www.youtube.com/@awesomekling",
+    "topLanguage": "Jakt",
+    "topRank": 345,
+    "otherLanguages": "Ladybird #1286"
+  },
+  {
+    "id": "Breck Yunits",
+    "homepage": "https://breck.lol",
+    "topLanguage": "Particles",
+    "topRank": 365,
+    "otherLanguages": "Scroll #376 | Parsers #380 | Ohayo #1038 | Note #1541 | TQL #1596 | Space #1638 | Simoji #1853 | Explorer #2067"
+  },
+  {
+    "id": "Daniel Kallin",
+    "homepage": "https://skanaar.github.io/",
+    "topLanguage": "nomnoml",
+    "topRank": 382
+  },
+  {
+    "id": "Kartik K. Agaram",
+    "homepage": "https://akkartik.name/",
+    "topLanguage": "Mu",
+    "topRank": 405,
+    "otherLanguages": "Wart #1156 | SubX #2322"
+  },
+  {
+    "id": "Marshall Lochbaum",
+    "homepage": "https://mlochbaum.github.io/",
+    "topLanguage": "BQN",
+    "topRank": 421,
+    "otherLanguages": "I #1741"
+  },
+  {
+    "id": "Carl Sassenrath",
+    "homepage": "https://sassenrath.com",
+    "topLanguage": "REBOL",
+    "topRank": 424
+  },
+  {
+    "id": "Hadley Wickham",
+    "homepage": "https://hadley.nz/",
+    "topLanguage": "dplyr",
+    "topRank": 460,
+    "otherLanguages": "tidyverse #466 | ggplot2 #697"
+  },
+  {
+    "id": "Vint Cerf",
+    "homepage": "https://www.internetsociety.org/author/cerf/",
+    "topLanguage": "TCP",
+    "topRank": 464
+  },
+  {
+    "id": "Fabrice Bellard",
+    "homepage": "https://bellard.org/",
+    "topLanguage": "QuickJS",
+    "topRank": 486,
+    "otherLanguages": "Tiny C Compiler #580 | FFmpeg #801"
+  },
+  {
+    "id": "Steven M. Drucker",
+    "homepage": "https://stevenmdrucker.github.io",
+    "topLanguage": "SandDance",
+    "topRank": 506
+  },
+  {
+    "id": "Daniel X Moore",
+    "homepage": "https://danielx.net/",
+    "topLanguage": "Civet",
+    "topRank": 509,
+    "otherLanguages": "Hera #2205"
+  },
+  {
+    "id": "Cyrus Omar",
+    "homepage": "https://web.eecs.umich.edu/~comar/",
+    "topLanguage": "Hazel",
+    "topRank": 525
+  },
+  {
+    "id": "Chris Done",
+    "homepage": "https://chrisdone.com/",
+    "topLanguage": "fay",
+    "topRank": 526,
+    "otherLanguages": "Z #905 | JSON lambda #944 | Lucid #1206"
+  },
+  {
+    "id": "James Long",
+    "homepage": "https://jlongster.com/",
+    "topLanguage": "Prettier",
+    "topRank": 620
+  },
+  {
+    "id": "Tom Wright",
+    "homepage": "https://tomwright.me/",
+    "topLanguage": "Dasel",
+    "topRank": 622
+  },
+  {
+    "id": "Wouter Van Oortmerssen",
+    "homepage": "https://strlen.com/",
+    "topLanguage": "lobster",
+    "topRank": 634,
+    "otherLanguages": "TreeSheets #894 | Amiga E #1324 | False #1718 | Bla #2107 | Sheep #2116 | Aardappel #3814"
+  },
+  {
+    "id": "Mark Nadal",
+    "homepage": "https://marknadal.com/",
+    "topLanguage": "Gun",
+    "topRank": 658
+  },
+  {
+    "id": "Jeffrey Heer",
+    "homepage": "https://homes.cs.washington.edu/~jheer/",
+    "topLanguage": "Vega",
+    "topRank": 680,
+    "otherLanguages": "Arquero #1135"
+  },
+  {
+    "id": "Fernando Borretti",
+    "homepage": "https://borretti.me/",
+    "topLanguage": "Austral",
+    "topRank": 683
+  },
+  {
+    "id": "Oliver Medhurst",
+    "homepage": "https://goose.icu/",
+    "topLanguage": "Porffor",
+    "topRank": 703
+  },
+  {
+    "id": "Patrick Michaud",
+    "homepage": "https://pmichaud.com/",
+    "topLanguage": "Rakudo",
+    "topRank": 721
+  },
+  {
+    "id": "Fredrik Kjolstad",
+    "homepage": "https://fredrikbk.com/",
+    "topLanguage": "Simit",
+    "topRank": 722
+  },
+  {
+    "id": "Aaron Boodman",
+    "homepage": "https://aaronboodman.com/",
+    "topLanguage": "noms-db",
+    "topRank": 729
+  },
+  {
+    "id": "Dan Romero",
+    "homepage": "https://danromero.org/",
+    "topLanguage": "Farcaster",
+    "topRank": 750
+  },
+  {
+    "id": "Robert Muth",
+    "homepage": "http://robert.muth.org/",
+    "topLanguage": "Cwerg",
+    "topRank": 836
+  },
+  {
+    "id": "Chris Klimas",
+    "homepage": "https://chrisklimas.com/",
+    "topLanguage": "Twine",
+    "topRank": 882,
+    "otherLanguages": "Snowman #1343"
+  },
+  {
+    "id": "Maxime Chevalier-Boisvert",
+    "homepage": "https://pointersgonewild.com/",
+    "topLanguage": "noisecraft",
+    "topRank": 887,
+    "otherLanguages": "KavaScript #1886 | weebasic #2407 | Plush #4633"
+  },
+  {
+    "id": "Baku Hashiomoto",
+    "homepage": "https://baku89.com",
+    "topLanguage": "Glisp",
+    "topRank": 895
+  },
+  {
+    "id": "Adam Le Doux",
+    "homepage": "https://ledoux.itch.io/",
+    "topLanguage": "Bitsy",
+    "topRank": 899
+  },
+  {
+    "id": "tí yè",
+    "homepage": "https://tiye.me/",
+    "topLanguage": "Cirru",
+    "topRank": 900,
+    "otherLanguages": "Calcit #1528"
+  },
+  {
+    "id": "Corey Montella",
+    "homepage": "https://engineering.lehigh.edu/faculty/corey-montella",
+    "topLanguage": "Mech",
+    "topRank": 928
+  },
+  {
+    "id": "Arno Gourdol",
+    "homepage": "https://www.arno.org/",
+    "topLanguage": "MathJSON",
+    "topRank": 974,
+    "otherLanguages": "Cortex #1347"
+  },
+  {
+    "id": "Jon Skinner",
+    "homepage": "https://www.sublimetext.com/blog/articles/anatomy-of-a-next-generation-text-editor",
+    "topLanguage": "Sublime Text",
+    "topRank": 997,
+    "otherLanguages": "Sublime Merge #3083"
+  },
+  {
+    "id": "Jonathan Immanuel Brachthäuser",
+    "homepage": "https://b-studios.de/",
+    "topLanguage": "Effekt",
+    "topRank": 1036
+  },
+  {
+    "id": "Adam McDaniel",
+    "homepage": "https://adam-mcdaniel.net/",
+    "topLanguage": "Sage",
+    "topRank": 1058,
+    "otherLanguages": "tsar #3631"
+  },
+  {
+    "id": "Amit Patel",
+    "homepage": "https://www.redblobgames.com/",
+    "topLanguage": "Mapgen",
+    "topRank": 1069
+  },
+  {
+    "id": "Tony Hoare",
+    "homepage": "https://www.cs.ox.ac.uk/people/tony.hoare/",
+    "topLanguage": "ALGOL W",
+    "topRank": 1117
+  },
+  {
+    "id": "Peter Saxton",
+    "homepage": "https://petersaxton.uk/",
+    "topLanguage": "EYG",
+    "topRank": 1186
+  },
+  {
+    "id": "Erik Demaine",
+    "homepage": "https://erikdemaine.org/",
+    "topLanguage": "Fold",
+    "topRank": 1195
+  },
+  {
+    "id": "Ricardo Cabello",
+    "homepage": "https://ricardocabello.com",
+    "topLanguage": "Three.js",
+    "topRank": 1214
+  },
+  {
+    "id": "Steve Ruiz",
+    "homepage": "https://www.steveruiz.me/",
+    "topLanguage": "tldraw",
+    "topRank": 1251
+  },
+  {
+    "id": "Jose E. Marchesi",
+    "homepage": "https://www.jemarch.net",
+    "topLanguage": "Recfiles",
+    "topRank": 1253,
+    "otherLanguages": "GNU Poke #1341"
+  },
+  {
+    "id": "Robert C. Martin",
+    "homepage": "http://cleancoder.com/products",
+    "topLanguage": "SMC",
+    "topRank": 1315
+  },
+  {
+    "id": "Võ Minh Thu",
+    "homepage": "https://noteed.com/",
+    "topLanguage": "Slab",
+    "topRank": 1442
+  },
+  {
+    "id": "Liza Daly",
+    "homepage": "https://lizadaly.com/",
+    "topLanguage": "Openverse",
+    "topRank": 1590
+  },
+  {
+    "id": "Anthony Bonkoski",
+    "homepage": "https://xorvoid.com/",
+    "topLanguage": "Forsp",
+    "topRank": 1618
+  },
+  {
+    "id": "Ellie Kanning-Dawn",
+    "homepage": "https://ekdawn.com/about#bio",
+    "topLanguage": "Horse64",
+    "topRank": 1639,
+    "otherLanguages": "Moose64 #1931"
+  },
+  {
+    "id": "Yon Fernández de Retana",
+    "homepage": "https://anaseto.codeberg.page/",
+    "topLanguage": "Goal",
+    "topRank": 1702,
+    "otherLanguages": "Frundis #2250"
+  },
+  {
+    "id": "Marvin Borner",
+    "homepage": "https://marvinborner.de/",
+    "topLanguage": "Bruijn",
+    "topRank": 1813
+  },
+  {
+    "id": "Bernat Romagosa",
+    "homepage": "http://romagosa.work/",
+    "topLanguage": "MicroBlocks",
+    "topRank": 1818
+  },
+  {
+    "id": "Daniel Fedorin",
+    "homepage": "https://danilafe.com/",
+    "topLanguage": "Pegasus",
+    "topRank": 1883
+  },
+  {
+    "id": "Chris Pearson",
+    "homepage": "https://www.chrispsn.com/",
+    "topLanguage": "Mesh Spreadsheet",
+    "topRank": 1891
+  },
+  {
+    "id": "Andrey Zholos",
+    "homepage": "http://althenia.net/",
+    "topLanguage": "kuc",
+    "topRank": 1909,
+    "otherLanguages": "Yewslip #2796"
+  },
+  {
+    "id": "Terry A. Davis",
+    "homepage": "https://templeos.org",
+    "topLanguage": "holyc",
+    "topRank": 1987,
+    "otherLanguages": "TempleOS #2442"
+  },
+  {
+    "id": "Nils M Holm",
+    "homepage": "https://www.t3x.org/",
+    "topLanguage": "mLite",
+    "topRank": 1995,
+    "otherLanguages": "T3X #2001 | Kilo LISP #2109 | Klong #2268"
+  },
+  {
+    "id": "Thomas S. Ray",
+    "homepage": "https://www.tomray.me/",
+    "topLanguage": "Tierra",
+    "topRank": 2006
+  },
+  {
+    "id": "Phil Lapsley",
+    "homepage": "https://explodingthephone.com/contact.php",
+    "topLanguage": "NNTP",
+    "topRank": 2100
+  },
+  {
+    "id": "Stevan Apter",
+    "homepage": "https://nsl.com/",
+    "topLanguage": "SLACK",
+    "topRank": 2117,
+    "otherLanguages": "F #2253 | cK #2258 | XY #2295"
+  },
+  {
+    "id": "Nate Cull",
+    "homepage": "https://natecull.org/wordpress/",
+    "topLanguage": "SUSN",
+    "topRank": 2120
+  },
+  {
+    "id": "Markus Alexej Persson",
+    "homepage": "http://notch.net/",
+    "topLanguage": "Minecraft",
+    "topRank": 2190
+  },
+  {
+    "id": "Jeremie Miller",
+    "homepage": "https://quartzjer.tumblr.com/",
+    "topLanguage": "XMPP",
+    "topRank": 2191,
+    "otherLanguages": "Telehash #3301"
+  },
+  {
+    "id": "Jonathan Rees",
+    "homepage": "https://mumble.net/~jar/",
+    "topLanguage": "Pre-Scheme",
+    "topRank": 2201,
+    "otherLanguages": "Scheme 48 #2511"
+  },
+  {
+    "id": "Richard Kelsey",
+    "homepage": "https://mumble.net/~kelsey/",
+    "topLanguage": "Pre-Scheme",
+    "topRank": 2201,
+    "otherLanguages": "Scheme 48 #2511"
+  },
+  {
+    "id": "Auke van Slooten",
+    "homepage": "https://www.muze.nl/",
+    "topLanguage": "jaqt",
+    "topRank": 2206
+  },
+  {
+    "id": "Nick Noble",
+    "homepage": "https://nicknoble.works/",
+    "topLanguage": "Slashdown",
+    "topRank": 2238
+  },
+  {
+    "id": "Peter Schaffter",
+    "homepage": "https://www.schaffter.ca/",
+    "topLanguage": "Groff Mom",
+    "topRank": 3039
+  },
+  {
+    "id": "Leon Arnott",
+    "homepage": "https://fairysvoice.net/",
+    "topLanguage": "Harlowe",
+    "topRank": 3125
+  },
+  {
+    "id": "Steve Lhomme",
+    "homepage": "https://robux4.blogspot.com/",
+    "topLanguage": "Matroska",
+    "topRank": 3271
+  },
+  {
+    "id": "Gavin Wood",
+    "homepage": "https://gavwood.com",
+    "topLanguage": "Polkadot",
+    "topRank": 3272
+  },
+  {
+    "id": "Leon Bambrick",
+    "homepage": "https://secretgeek.net/",
+    "topLanguage": "Hexcel",
+    "topRank": 4107
+  },
+  {
+    "id": "Bram Cohen",
+    "homepage": "https://bramcohen.com/",
+    "topLanguage": "BitTorrent",
+    "topRank": 4549
+  },
+  {
+    "id": "Dan Bricklin",
+    "homepage": "http://www.bricklin.com",
+    "topLanguage": "VisiCalc",
+    "topRank": 4580
+  },
+  {
+    "id": "Luke Champine",
+    "homepage": "https://lukechampine.com/",
+    "topLanguage": "sia",
+    "topRank": 4639
+  },
+  {
+    "id": "Martìn Casado",
+    "homepage": "http://yuba.stanford.edu/~casado/",
+    "topLanguage": "OpenFlow",
+    "topRank": 4680
+  }
+]

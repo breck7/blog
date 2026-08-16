@@ -4,8 +4,13 @@
  <title>Source</title>
  <link>https://breck.lol/</link>
  <description></description>
- <lastBuildDate>Fri, 14 Aug 2026 08:12:38 +0000</lastBuildDate>
+ <lastBuildDate>Sun, 16 Aug 2026 03:09:09 +0000</lastBuildDate>
  <language>en-us</language>
+ <item>
+<title>The Homepages of Programming Language Creators</title>
+<link>https://breck.lol/plMakers-about.html</link>
+<pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+</item>
  <item>
 <title>New Domain Name</title>
 <link>https://breck.lol/newDomain.html</link>

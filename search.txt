@@ -3,85 +3,86 @@ Search Breck's Blog
 
 Breck's Blog - Writing Posts
 ============================
-08/14/2026
+08/16/2026
 https://breck.lol/writing.html
 
 Breck's Blog - Scroll Posts
 ===========================
-08/14/2026
+08/16/2026
 https://breck.lol/treeNotation.html
 
 Breck's Blog - Thinking Posts
 =============================
-08/14/2026
+08/16/2026
 https://breck.lol/thinking.html
 
 Breck's Blog - Startups Posts
 =============================
-08/14/2026
+08/16/2026
 https://breck.lol/startups.html
 
 Breck's Blog - Society Posts
 ============================
-08/14/2026
+08/16/2026
 https://breck.lol/society.html
 
 Breck's Blog - Concise Index
 ============================
-08/14/2026
+08/16/2026
 https://breck.lol/short.html
 
 Breck's Blog - Scroll Papers Posts
 ==================================
-08/14/2026
+08/16/2026
 https://breck.lol/scrollPapers.html
 
 Breck's Blog - Science Posts
 ============================
-08/14/2026
+08/16/2026
 https://breck.lol/sciencePage.html
 
 Breck's Blog - Programming Posts
 ================================
-08/14/2026
+08/16/2026
 https://breck.lol/programming.html
 
 Breck's Blog - Mitochondria Posts
 =================================
-08/14/2026
+08/16/2026
 https://breck.lol/mitochondria.html
 
 Breck's Blog - Life Posts
 =========================
-08/14/2026
+08/16/2026
 https://breck.lol/life.html
 
 Breck's Blog - All Posts
 ========================
-08/14/2026
+08/16/2026
 https://breck.lol/index.html
 
 Breck's Blog - Intellectual Freedom Posts
 =========================================
-08/14/2026
+08/16/2026
 https://breck.lol/freedom.html
 
 Breck's Blog - Ford Posts
 =========================
-08/14/2026
+08/16/2026
 https://breck.lol/fordCat.html
 
 Breck's Blog - Fiction Posts
 ============================
-08/14/2026
+08/16/2026
 https://breck.lol/fiction.html
 
 Breck's Blog - Data Posts
 =========================
-08/14/2026
+08/16/2026
 https://breck.lol/data.html
 
 title,titleLink,text,date,year,wordCount,minutes
+The Homepages of Programming Language Creators,plMakers-about.html,"The Homepages of Programming Language Creators ==============================================  [Image Omitted]  https://breck.lol/plMakers.html undefined  Try it yourself.   https://breck.lol/plMakers.html Try it yourself.  August 15, 2026  From working on PLDB, I discovered that people who make programming languages tend to have interesting, often quirky personal homepages.  https://github.com/breck7/pldb PLDB  I used Codex to make this fun little single page browser for browsing those.  https://breck.lol/plMakers.html single page browser  ⁂  Follow me on X  https://twitter.com/breckyunits Follow me on X Built with Scroll v178.2.3 ",08/15/2026,2026,94,0.5
 New Domain Name,newDomain.html,"New Domain Name ===============  August 12, 2026  I failed to renew BreckYunits.com and some lost soul grabbed it and redirected it to a gambling website or some other monstrosity.  Ah well, there's infinite domain names to choose from!  And choose I have! Say hello to breck.lol!  https://breck.lol breck.lol  *  Nowadays I spend most hours building with atoms, not words.  However, I still want to keep blogging a bit.  *  Typing that long github url was annoying.  Breck.lol is shorter and memorable.  https://breck.lol Breck.lol  It's also laugh out loud funny, at least in name.  *  I might change it again next year, I don't know.  Breck.lol cost me $2.14, including tax.  A little less than 1 penny per day. I am very respectful of capital nowadays, but I can justify that.  *  Scroll sites are so easy to move/rename. So if I change domains again next year, that's easy enough to do.  Thanks to everyone out there who has helped evolve Scroll. I love how simple and timeless it is.  *  Cheers, Breck (Founder of breck.lol)  ⁂  Related Posts ============= Writing in 2024 =============== 01/01/2024 https://breck.lol/nyd2024.html  Publishing More =============== 11/25/2012 https://breck.lol/publishing-more.html  I'm Back ======== 12/02/2009 https://breck.lol/im-back.html  I guess the time has come ========================= 08/24/2007 https://breck.lol/i-guess-the-time-had-come.html  Follow me on X  https://twitter.com/breckyunits Follow me on X Built with Scroll v178.2.3 ",08/12/2026,2026,259,1.3
 Upstream Humility,upstreamHumility.html,"Upstream Humility =================  July 25, 2026  You can be right about every detail and still be wrong.  There is always a bigger context with unconsidered things, one (or more) of which, if considered, would reveal your ideas to be wrong or irrelevant.  The true dominant term in all equations is always unknown.  *  There is always a much easier way to do something that you are not seeing.  If you can't spot a better strategy later, you're bad at hindsight analysis, not great at strategy.  Don't beat yourself up when wrong - you were probably right about some things. Acknowledge the details you got right, acknowledge the upstream thing you got wrong, and move forward.  *  Whenever you are confident in a position, always end with ""but I could be wrong, perhaps ____"". Sometimes all of that work to build out the detailed idea was just a way to find the upstream ideas.  But even if the detailed idea is the correct idea, upstream humility never hurts.  *  How do you get better at finding the upstream things?  Sometimes you can find the upstream things with words, sometimes without. Learn how to learn with words, learn how to learn without words.  Always be open to new ideas.  *  The converse of this is true as well.  You can be wrong about every detail and still be right.  Oftentimes we call this person ""lucky"". And sometimes that's true, but perhaps they are just playing a higher level game.  Follow me on X  https://twitter.com/breckyunits Follow me on X Built with Scroll v178.2.3 ",07/25/2026,2026,263,1.3
 The New Thing,theNewThing.html,"The New Thing =============  July 11, 2026  I know the new thing I'm working on will be my work for the next 10 - 40 years.  I say this having worked on the Scroll stuff for 13 years.  I went into that completely naive. No idea of what I was stumbling into.  Of how hard it would be, how winding, how fun, how interesting.  It is through that work that I ended up in Seattle at Microsoft; to program synthesis and $; to Hawai'i and Kaia and Pemma.  Being a dad and feeling the responsibility for the world our kids live in led me to the new thing.  I tried to make a difference with Scroll, but it wasn't enough. The new thing is 4 dimensional, uses no screens, is not digital. As much as I love Scroll, from a pure math perspective the new thing is easily 100x bigger.  It's been 2 years since I realized the new work was the most important work for me to focus on.  Unlike with Scroll, I have gone into this carefully, deliberately, trying to ensure I use everything I have learned to do it right, with others, aligned with capital.  But just as with Scroll, I'm dong this with everything I have, a pure heart, deep whole body conviction, and I know that we will if nothing else, will this thing into existence.  If you know, you know.  ⁂  Follow me on X  https://twitter.com/breckyunits Follow me on X Built with Scroll v178.2.3 ",07/11/2026,2026,256,1.3

@@ -1,0 +1,20 @@
+date 2026-08-15
+tags All HasDataset Programming
+title The Homepages of Programming Language Creators
+
+singleHeader.scroll
+plMakers.jpg
+ plMakers.html
+ caption Try it yourself.
+  plMakers.html
+
+From working on PLDB, I discovered that people who make programming languages tend to have interesting, often quirky personal homepages.
+ https://github.com/breck7/pldb PLDB
+ dateline
+
+I used Codex to make this fun little single page browser for browsing those.
+ plMakers.html single page browser
+
+****
+
+footer.scroll

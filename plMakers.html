@@ -101,7 +101,7 @@ button, a { font: inherit; }
  scrollbar-color: rgba(255,255,255,.16) transparent;
  mask-image: linear-gradient(to bottom, transparent 0, black 13px, black calc(100% - 24px), transparent 100%);
 }
-.makerList button {
+.makerList a {
  position: relative;
  display: grid;
  grid-template-columns: minmax(0, 1fr) auto;
@@ -113,22 +113,23 @@ button, a { font: inherit; }
  border-radius: 8px;
  color: #80938e;
  background: transparent;
+ text-decoration: none;
  text-align: left;
  cursor: pointer;
  transition: color .16s ease, background .16s ease, transform .16s ease;
 }
-.makerList button:hover { color: #dbe8e4; background: rgba(255,255,255,.055); transform: translateX(2px); }
-.makerList button[aria-current="true"] {
+.makerList a:hover { color: #dbe8e4; background: rgba(255,255,255,.055); transform: translateX(2px); }
+.makerList a[aria-current="true"] {
  color: #f4faf7;
  background: linear-gradient(90deg, rgba(185,242,40,.18), rgba(185,242,40,.065));
  box-shadow: inset 2px 0 var(--acid);
 }
 .tocCopy { display: grid; min-width: 0; gap: 3px; }
 .tocRank { align-self: start; margin-top: 2px; color: #526762; font: 600 9px/1 ui-monospace, SFMono-Regular, Menlo, monospace; font-variant-numeric: tabular-nums; }
-.makerList button[aria-current="true"] .tocRank { color: var(--acid); }
+.makerList a[aria-current="true"] .tocRank { color: var(--acid); }
 .tocName { overflow: hidden; font-size: 12px; font-weight: 560; letter-spacing: -.01em; text-overflow: ellipsis; white-space: nowrap; }
 .tocLanguage { overflow: hidden; color: #566d67; font-size: 9px; font-weight: 600; letter-spacing: .02em; text-overflow: ellipsis; white-space: nowrap; }
-.makerList button[aria-current="true"] .tocLanguage { color: #9fba57; }
+.makerList a[aria-current="true"] .tocLanguage { color: #9fba57; }
 .mainPane { min-width: 0; display: grid; grid-template-rows: auto minmax(0, 1fr); }
 .masthead {
  position: relative;
@@ -236,7 +237,8 @@ h1 span { color: transparent; -webkit-text-stroke: 1px rgba(237,246,242,.56); }
  background: linear-gradient(#233439, #15262a);
  border-bottom: 1px solid rgba(0,0,0,.38);
 }
-.makerName { flex: 0 1 auto; min-width: 0; max-width: 38%; overflow: hidden; font-size: 12px; font-weight: 650; letter-spacing: -.01em; text-overflow: ellipsis; white-space: nowrap; }
+.makerName { flex: 0 1 auto; min-width: 0; max-width: 38%; overflow: hidden; color: inherit; font-size: 12px; font-weight: 650; letter-spacing: -.01em; text-decoration: none; text-overflow: ellipsis; white-space: nowrap; }
+.makerName:hover { text-decoration: underline; text-underline-offset: 3px; }
 .barLanguages { display: flex; flex: 1; min-width: 0; gap: 4px; overflow: hidden; }
 .viewport { position: absolute; inset: 42px 0 0; overflow: hidden; background: #cfd8d5; }
 .placeholder {
@@ -331,8 +333,8 @@ iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; bac
  .sidebar { display: grid; grid-template-rows: 24px 1fr; padding: 10px 0 7px; border-right: 0; border-bottom: 1px solid rgba(255,255,255,.13); }
  .sidebarLabel { grid-row: 1; padding: 1px 14px 0; }
  .makerList { grid-column: 1 / -1; display: flex; gap: 4px; width: 100%; height: 55px; padding: 6px 10px 9px; overflow-x: auto; overflow-y: hidden; mask-image: linear-gradient(90deg, transparent, black 12px, black calc(100% - 12px), transparent); }
- .makerList button { flex: 0 0 auto; display: block; width: auto; min-height: 34px; padding: 6px 11px; white-space: nowrap; }
- .makerList button[aria-current="true"] { box-shadow: inset 0 -2px var(--acid); }
+ .makerList a { flex: 0 0 auto; display: block; width: auto; min-height: 34px; padding: 6px 11px; white-space: nowrap; }
+ .makerList a[aria-current="true"] { box-shadow: inset 0 -2px var(--acid); }
  .tocRank { display: none; }
  .tocName { font-size: 10px; }
  .mainPane { min-height: 650px; }
@@ -404,7 +406,7 @@ iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; bac
   card.className = "card"
   card.dataset.index = index
   card.innerHTML = `
-   <div class="browserBar"><span class="makerName">${escapeHtml(maker.name)}</span><div class="barLanguages">${languageHtml}</div></div>
+   <div class="browserBar"><a class="makerName" href="${escapeHtml(maker.homepage)}" target="_blank" rel="noopener noreferrer">${escapeHtml(maker.name)}</a><div class="barLanguages">${languageHtml}</div></div>
    <div class="viewport">
     <div class="placeholder"><span class="initials">${escapeHtml(initials(maker.name))}</span><span class="domain">${escapeHtml(domain(maker.homepage))}</span></div>
     <iframe src="${escapeHtml(maker.homepage)}" loading="eager" tabindex="-1" title="${escapeHtml(maker.name)} homepage preview"></iframe>
@@ -448,14 +450,14 @@ iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; bac
  }
  const setPreviewHover = (index, hovered) => visibleCards.get(index)?.classList.toggle("sideHovered", hovered)
  const updateList = shouldScroll => {
-  const buttons = list.querySelectorAll("button")
-  buttons.forEach((button, index) => button.setAttribute("aria-current", index === current ? "true" : "false"))
+  const links = list.querySelectorAll("a[data-index]")
+  links.forEach((link, index) => link.setAttribute("aria-current", index === current ? "true" : "false"))
   if (shouldScroll) {
-   const button = buttons[current]
+   const link = links[current]
    const mobile = matchMedia("(max-width: 680px)").matches
    list.scrollTo(mobile
-    ? {left: button.offsetLeft - list.clientWidth / 2 + button.offsetWidth / 2, behavior: "smooth"}
-    : {top: button.offsetTop - list.clientHeight / 2 + button.offsetHeight / 2, behavior: "smooth"})
+    ? {left: link.offsetLeft - list.clientWidth / 2 + link.offsetWidth / 2, behavior: "smooth"}
+    : {top: link.offsetTop - list.clientHeight / 2 + link.offsetHeight / 2, behavior: "smooth"})
   }
  }
  const select = (index, shouldScroll = true) => {
@@ -472,11 +474,13 @@ iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; bac
   liveRegion.textContent = `${maker.name}, ${maker.languages[0].name}, rank ${maker.languages[0].rank}`
   history.replaceState(null, "", `#${encodeURIComponent(maker.name)}`)
  }
- list.innerHTML = makers.map((maker, index) => `<button type="button" data-index="${index}" aria-current="${index === 0}"><span class="tocCopy"><span class="tocName">${escapeHtml(maker.name)}</span><span class="tocLanguage">${escapeHtml(maker.languages[0].name)}</span></span><span class="tocRank">#${maker.languages[0].rank}</span></button>`).join("")
+ list.innerHTML = makers.map((maker, index) => `<a href="${escapeHtml(maker.homepage)}" data-index="${index}" aria-current="${index === 0}"><span class="tocCopy"><span class="tocName">${escapeHtml(maker.name)}</span><span class="tocLanguage">${escapeHtml(maker.languages[0].name)}</span></span><span class="tocRank">#${maker.languages[0].rank}</span></a>`).join("")
  positionTotal.textContent = pad(makers.length)
  list.addEventListener("click", event => {
-  const button = event.target.closest("button[data-index]")
-  if (button) select(Number(button.dataset.index))
+  const link = event.target.closest("a[data-index]")
+  if (!link || event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return
+  event.preventDefault()
+  select(Number(link.dataset.index))
  })
  previous.addEventListener("click", () => select(current - 1))
  next.addEventListener("click", () => select(current + 1))

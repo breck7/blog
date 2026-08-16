@@ -369,7 +369,7 @@ const makersData = [
   },
   {
     "id": "Maximilian Roos",
-    "homepage": "http://feedback.maxroos.com/",
+    "homepage": "https://feedback.maxroos.com/",
     "topLanguage": "PRQL",
     "topRank": 147,
     "otherLanguages": "Xarray #375"
@@ -677,7 +677,7 @@ const makersData = [
   },
   {
     "id": "Robert Muth",
-    "homepage": "http://robert.muth.org/",
+    "homepage": "https://robert.muth.org/",
     "topLanguage": "Cwerg",
     "topRank": 836
   },
@@ -792,7 +792,7 @@ const makersData = [
   },
   {
     "id": "Robert C. Martin",
-    "homepage": "http://cleancoder.com/products",
+    "homepage": "https://cleancoder.com/products",
     "topLanguage": "SMC",
     "topRank": 1315
   },
@@ -836,7 +836,7 @@ const makersData = [
   },
   {
     "id": "Bernat Romagosa",
-    "homepage": "http://romagosa.work/",
+    "homepage": "https://romagosa.work/",
     "topLanguage": "MicroBlocks",
     "topRank": 1818
   },
@@ -987,7 +987,7 @@ const makersData = [
   },
   {
     "id": "Martìn Casado",
-    "homepage": "http://yuba.stanford.edu/~casado/",
+    "homepage": "https://yuba.stanford.edu/~casado/",
     "topLanguage": "OpenFlow",
     "topRank": 4680
   }

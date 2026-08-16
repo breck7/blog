@@ -14,7 +14,7 @@ editButtonParser,680
 listAftertextParser,582
 lineOfCodeParser,549
 chatLineParser,408
-cssLineParser,396
+cssLineParser,398
 scrollCenterParser,378
 aftertextClassParser,367
 authorsParser,353
@@ -44,7 +44,7 @@ datelineParser,223
 h2Parser,200
 sceneCommentParser,199
 orderedListAftertextParser,197
-scriptLineParser,169
+scriptLineParser,171
 quickRelativeLinkParser,160
 topRankParser,154
 topLanguageParser,154

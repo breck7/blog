@@ -1,6 +1,7 @@
 title The Language Makers Homepages
 description Flip through the personal homepages of programming language creators, ranked by their top PLDB language.
 permalink plMakers.html
+openGraphImage plMakers.jpg
 buildHtml
 buildConcepts makersData.js makersData.json
  sortBy topRank

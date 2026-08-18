@@ -1,12 +1,12 @@
 parserId,uses
 BlobParser,16911
-blankLineParser,15294
+blankLineParser,15296
 catchAllParagraphParser,6201
 scrollImportedParser,2349
 slashCommentParser,1949
 quickLinkParser,1536
 scrollBrParser,1068
-h1Parser,827
+h1Parser,828
 scrollDinkusParser,800
 cssParser,721
 quickCssParser,692
@@ -15,7 +15,7 @@ listAftertextParser,582
 lineOfCodeParser,549
 chatLineParser,408
 cssLineParser,400
-scrollCenterParser,380
+scrollCenterParser,381
 aftertextClassParser,369
 authorsParser,355
 endColumnsParser,354
@@ -39,7 +39,7 @@ scrollTagsParser,321
 scrollDateParser,312
 endOfPostDinkusParser,297
 scrollContainerParser,254
-quickImageParser,239
+quickImageParser,240
 datelineParser,223
 h2Parser,200
 sceneCommentParser,199
